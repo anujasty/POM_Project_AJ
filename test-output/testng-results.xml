@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-10T22:49:11 PDT" name="Default suite" finished-at="2023-07-10T22:49:14 PDT" duration-ms="2539">
+    <groups>
+    </groups>
+    <test started-at="2023-07-10T22:49:11 PDT" name="Default test" finished-at="2023-07-10T22:49:14 PDT" duration-ms="2539">
+      <class name="util.BrowserFactory">
+        <test-method signature="init()[pri:0, instance:util.BrowserFactory@4b8ee4de]" started-at="2023-07-10T22:49:12 PDT" name="init" finished-at="2023-07-10T22:49:14 PDT" duration-ms="2503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- util.BrowserFactory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
